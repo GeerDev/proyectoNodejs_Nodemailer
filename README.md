@@ -1,4 +1,4 @@
 ## Prototipo Nodemailer NodeJS 
-- Añadir node_modules con <span style="color:red">___npm install___</span>
-- Añadir variables de entorno en ___.env___
-- Ejecutar el proyecto ___npm run dev___
+- Añadir node_modules con __npm install__
+- Añadir variables de entorno en __.env__
+- Ejecutar el proyecto __npm run dev__
